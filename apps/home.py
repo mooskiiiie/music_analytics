@@ -10,8 +10,8 @@ def app():
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT0QKktYbh7H5tVzW8WEUNdH0mm0IrvhBi4vMEAOkbD3cQcahYWmq--YZfkCviHAA/embed?start=false&loop=false&delayms=3000" 
     allowfullscreen="true" height=500 width=850></iframe>
     """,
-    height=500,
-    width=850
+    height=650,
+    width=860
     )
 
     
